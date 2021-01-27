@@ -65,9 +65,10 @@ header {
 }
 label {
     font-size: 18px;
-    margin-left: 10%;
+    margin-left: 1%;
     /*margin: 50px;*/
     margin-bottom: 1%;
+    margin-top: 10%;
 }
 form {
     width: 50%;
@@ -80,26 +81,26 @@ form {
 
 textarea {
     border-radius: 0.5em;
-    width: 72%;
+    width: 145%;
     height: 150px;
     padding: 12px 20px;
     box-sizing: border-box;
     border: 2px solid #333;
     font-size: 16px;
     resize: none;
-    margin-left: 10%;
+    /*margin-left: 1%;*/
 
 }
-.button-add button {
+/*.button-add button {
     background-color: teal;
     color: white;
     width: 15%;
     height: 13%;
     border-radius: 0.5em;
     border: 2px solid white;
-    margin-left: 65%;
+    margin-left: 145%;
     margin-top: 1%;
-}
+}*/
 #textbox-title {
     border-radius: 0.5em;;
     width: 55%;
@@ -111,11 +112,11 @@ textarea {
 #add-button {
     background-color: teal;
     color: white;
-    width: 15%;
-    height: 15%;
+    width: 25%;
+    height: 30%;
     border-radius: 0.5em;
     border: 2px solid white;
-    margin-left: 65%;
+    margin-left: 120%;
 
 
 }
@@ -216,7 +217,14 @@ label {
     /*margin-left: 10%;*/
 }
 textarea {
-    width: 60%;
+    width: 100%;
     margin-top: 10%;
     margin-left: 1%;
 }
+#add-button {
+    width: 100%;
+    height: 30%;
+    border-radius: 0.5em;
+    border: 2px solid white;
+    margin-left: 1%;
+
